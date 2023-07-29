@@ -1,2 +1,2 @@
-# digital-clock
+# simple digital-clock
 https://sowmiya-mani.github.io/digital-clock/
